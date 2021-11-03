@@ -6,3 +6,5 @@ Mixed data is data where each row contains some standard features, as well as an
 This model handles both regression and classification problems. 
 
 The notebook contains instructions on how to use it. 
+
+The tests I did to validate that it works were inconclusive, so I'm looking for more datasets to test it. 
